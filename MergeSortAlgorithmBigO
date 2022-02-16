@@ -1,0 +1,17 @@
+T(n)
+
+1
+T(n/2)
+T(n/2)
+n
+
+T(n) = 2 T(n / 2) + n
+
+logab = log22 = 1
+log22 = k
+
+= O(n log n)
+
+
+
+
